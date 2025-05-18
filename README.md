@@ -1,6 +1,6 @@
 ## Импорт данных
 
-Импортируйте БД Northwind (используйте [файл инициализации](sql_scripts/fill_in_notrthwind.sql))
+Импортируйте БД Northwind (используйте [файл инициализации](fill_in_notrthwind.sql))
 
 ## Структура проекта
 
